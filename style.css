@@ -252,7 +252,14 @@ body {
     font-size: 18px;
     font-weight: 400;
 }
-
+.product-name h3,
+.product-name a {
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #263B59;
+    text-decoration: none;
+}
 .product-name p {
     font-size: 12px;
 }
